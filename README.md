@@ -92,5 +92,5 @@ This model is for **academic and research purposes only**. Medical diagnosis sho
 ## 📬 Contact
 
 For inquiries:  
-📧 arpit.jaiswal2021@vitstudent.ac.in  
+📧 jaiswalarpit438@gmail.com  
 📱 +91 6387145766
