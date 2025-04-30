@@ -1,8 +1,3 @@
-Sure! Here's a sample `README.md` file for your **Federated Learning project** titled **"PneumoNet"**, based on the information you've shared earlier:
-
----
-
-```markdown
 # PneumoNet 🫁 | Federated Deep Learning for Pulmonary Disease Detection
 
 A privacy-preserving Federated Learning project that uses Deep Learning to detect lung diseases (e.g., pneumonia) from Chest X-ray images using decentralized data simulation.
@@ -97,11 +92,3 @@ This model is for **academic and research purposes only**. Medical diagnosis sho
 For inquiries:  
 📧 arpit.jaiswal2021@vitstudent.ac.in  
 📱 +91 6387145766
-
----
-
-```
-
----
-
-Would you like me to generate this `README.md` as a downloadable file? Or tailor it further for a research paper submission or portfolio use?
