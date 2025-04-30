@@ -40,10 +40,6 @@ This project simulates **federated learning** where each batch of training data 
 3. A global model is updated via aggregation.
 4. The process repeats for multiple communication rounds.
 
-<p align="center">
-  <img src="https://github.com/arpit00000/Pneumonet/assets/128667568/9429b028-607e-45f8-8fae-228ff7a2f135" alt="Chat LLB UI" width="600"/>
-</p>
-
 ## 🚀 Getting Started
 
 ### Clone the repo
