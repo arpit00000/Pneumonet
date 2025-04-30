@@ -77,7 +77,9 @@ python federated_train.py
 
 ## 📷 Demo Screenshots
 
-![Model UI](https://github.com/arpit00000/Pneumonet/assets/128667568/9429b028-607e-45f8-8fae-228ff7a2f135)
+![Model UI](https://github.com/arpit00000/Pneumonet/blob/main/image.png)
+![Model UI](https://github.com/arpit00000/Pneumonet/blob/main/image1.png)
+
 
 ## ⚠️ Disclaimer
 
