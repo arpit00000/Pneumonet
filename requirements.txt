@@ -5,3 +5,4 @@ pillow
 gdown
 keras
 tensorflow
+matplotlib
